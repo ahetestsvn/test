@@ -1,0 +1,14 @@
+{
+  "name": "ANGULAR",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "requirejs": "^2.1.0"
+  },
+  "browser": {
+    "angular": "./bower_components/angular/angular.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
